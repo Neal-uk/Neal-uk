@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neal-uk
-- 👀 I’m interested in machine learning, data analysis and automation
+- 👀 I’m interested in software development, machine learning, data analysis and automation
 - 🌱 I’m currently learning Javascript & Python 3
 - 💞️ I’m looking to collaborate on projects to build my skills
 - 📫 You can reach me by email or by phone
